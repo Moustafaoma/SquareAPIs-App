@@ -1,0 +1,12 @@
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\bin\Debug\net8.0\Square.Core.deps.json
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\bin\Debug\net8.0\Square.Core.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\bin\Debug\net8.0\Square.Core.pdb
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.AssemblyInfoInputs.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.AssemblyInfo.cs
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.csproj.CoreCompileInputs.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\refint\Square.Core.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.pdb
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\ref\Square.Core.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.Core\obj\Debug\net8.0\Square.Core.csproj.AssemblyReference.cache

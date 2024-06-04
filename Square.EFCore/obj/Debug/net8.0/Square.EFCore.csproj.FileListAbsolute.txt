@@ -1,0 +1,17 @@
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.EFCore.deps.json
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.EFCore.runtimeconfig.json
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.EFCore.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.EFCore.pdb
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.csproj.AssemblyReference.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.AssemblyInfoInputs.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.AssemblyInfo.cs
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.csproj.CoreCompileInputs.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\refint\Square.EFCore.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.pdb
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.EFCore.genruntimeconfig.cache
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\ref\Square.EFCore.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.Core.dll
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\bin\Debug\net8.0\Square.Core.pdb
+D:\Back -End courses\My Project CV and GitHup\SquareAppAPIs\SquareAPIs\Square.EFCore\obj\Debug\net8.0\Square.E.27606CFD.Up2Date
